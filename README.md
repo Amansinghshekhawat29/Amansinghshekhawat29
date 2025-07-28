@@ -18,12 +18,24 @@
 
 
 
-### Connect with me:
-[![Dev.to]()](https://dev.to/aman_pratapsinghshekhaw)
-[![Twitter]()]( https://x.com/AmanSingh_2910?t=wsEY39tmEM4GKnGKzLW33Q&s=08 )
-[![LinkedIn]()](https://www.linkedin.com/in/aman-shekhawat-885414277)
-[![Instagram]()](https://www.instagram.com/shekhawat_amansingh_2910/)
-[![GitHub]()](https://github.com/Amansinghshekhawat29)
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://dev.to/aman_pratapsinghshekhaw" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="aman_pratapsinghshekhaw" height="30" width="40" />
+  </a>
+  <a href="https://x.com/AmanSingh_2910?t=wsEY39tmEM4GKnGKzLW33Q&s=08" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="AmanSingh_2910" height="30" width="40" />
+  </a>
+  <a href="https://www.linkedin.com/in/aman-shekhawat-885414277" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-shekhawat" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/shekhawat_amansingh_2910/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shekhawat_amansingh_2910" height="30" width="40" />
+  </a>
+  <a href="https://github.com/Amansinghshekhawat29" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Amansinghshekhawat29" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
